@@ -1,0 +1,13 @@
+public void beginMask(int x, int y, int w, int h) {
+		batcher.flush();
+		Gdx.gl.glColorMask(true, true, true, true);
+		batcher.setBlendFunction(GL20.GL_DST_ALPHA, GL20.GL_ONE_MINUS_DST_ALPHA);
+		Gdx.gl.glEnable(GL20.GL_SCISSOR_TEST);
+		Gdx.gl.glScissor(x, y, w, h);
+	}
+
+	public void endMask() {
+		batcher.flush();
+		Gdx.gl.glDisable(GL20.GL_SCISSOR_TEST);
+		batcher.setBlendFunction(GL20.GL_SRC_ALPHA, GL20.GL_ONE_MINUS_SRC_ALPHA);
+	}

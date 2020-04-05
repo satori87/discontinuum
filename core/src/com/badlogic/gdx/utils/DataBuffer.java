@@ -1,0 +1,29 @@
+// 
+// Decompiled by Procyon v0.5.36
+// 
+
+package com.badlogic.gdx.utils;
+
+import java.io.OutputStream;
+
+public class DataBuffer extends DataOutput
+{
+    private final StreamUtils.OptimizedByteArrayOutputStream outStream;
+    
+    public DataBuffer() {
+        this(32);
+    }
+    
+    public DataBuffer(final int initialSize) {
+        super(new StreamUtils.OptimizedByteArrayOutputStream(initialSize));
+        this.outStream = (StreamUtils.OptimizedByteArrayOutputStream)this.out;
+    }
+    
+    public byte[] getBuffer() {
+        return this.outStream.getBuffer();
+    }
+    
+    public byte[] toArray() {
+        return this.outStream.toByteArray();
+    }
+}

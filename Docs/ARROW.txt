@@ -1,0 +1,9 @@
+1-9 Raise bow and aim
+
+10 Loose arrow
+
+11-13 Grab new arrow
+
+5-9 Aim new arrow
+
+10 Loose new arrow

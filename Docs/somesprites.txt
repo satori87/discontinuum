@@ -1,0 +1,1105 @@
+###############################################
+OpenGameArt.org automatically generated credits file notice:
+
+THIS FILE IS FOR INFORMATIONAL PURPOSES ONLY.  NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL OPENGAMEART.ORG BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE USE OF THIS FILE OR THE INFORMATION IN IT.
+
+In plain English:  This credits file is automatically generated to the best of our ability, but it remains YOUR RESPONSIBILITY as a game developer to ensure that the art you use is attributed properly.  That is, we can't be held liable even if all of the information in this file is completely wrong.   In addition, some of the art listed in this file may have SPECIAL ATTRIBUTION INSTRUCTIONS that ask that you credit the artist in a particular way, rather than a verbatim copyright notice.  In those cases, you will probably need to hand-edit this file to comply with their instructions.  In some older art, attribution instructions may be included in the art description itself.  Please check the art page to be sure.
+
+We recommend that you delete this notice when you're sure the information here is correct and the attribution instructions are properly followed.  If you aren't the game developer and you're seeing this notice here in the credits, it probably means that the developer hasn't properly verified the attribution information contained herein even though it said they were supposed to do it right on the page where they downloaded this file.  
+###############################################
+
+Title:
+    [LPC] Glow Sword
+
+Author:
+    tskaufma
+
+URL:
+    https://opengameart.org/content/lpc-glow-sword
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+
+File(s):
+    * glowsword.zip
+
+----------------------------------------
+
+Title:
+    LPC bandages
+
+Author:
+    Nila122
+
+URL:
+    https://opengameart.org/content/lpc-bandages
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+File(s):
+    * Bandages.zip
+
+----------------------------------------
+
+Title:
+    LPC masks
+
+Author:
+    Nila122
+
+URL:
+    https://opengameart.org/content/lpc-masks
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+File(s):
+    * Masks.zip
+
+----------------------------------------
+
+Title:
+    LPC children walk animation
+
+Author:
+    Nila122
+
+URL:
+    https://opengameart.org/content/lpc-children-walk-animation
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+Copyright/Attribution Notice:
+    Original child sprite by kheftel.
+Original elven ears by Makrohn.
+
+File(s):
+    * Children.zip
+
+----------------------------------------
+
+Title:
+    LPC Child Standing Template
+
+Author:
+    kheftel
+
+URL:
+    https://opengameart.org/content/lpc-child-standing-template
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+    * CC0 ( http://creativecommons.org/publicdomain/zero/1.0/legalcode )
+
+File(s):
+    * ChildStanding.png
+
+----------------------------------------
+
+Title:
+    LPC Raven and Seagull
+
+Author:
+    Reemax
+
+URL:
+    https://opengameart.org/content/lpc-raven-and-seagull
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+Copyright/Attribution Notice:
+    Raven and Seagull by Tuomo Untinen
+
+File(s):
+    * birds.png
+
+----------------------------------------
+
+Title:
+    [LPC] Fairy
+
+Author:
+    Reemax
+
+URL:
+    https://opengameart.org/content/lpc-fairy
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+Copyright/Attribution Notice:
+    Fairy by Tuomo Untinen
+
+File(s):
+    * fairy.xcf
+
+----------------------------------------
+
+Title:
+    [LPC] Goblin - Full Sheet
+
+Author:
+    William.Thompsonj
+
+Collaborators:
+    Redshrike
+
+URL:
+    https://opengameart.org/content/lpc-goblin-full-sheet
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+Copyright/Attribution Notice:
+    Provide a link to my profile. Attribute Stephen "Redshrike" Challener as graphic artist and William.Thompsonj as contributor.
+
+File(s):
+    * goblin-back-slash.gif
+    * goblin.zip
+
+----------------------------------------
+
+Title:
+    [LPC] Misc animations and items
+
+Author:
+    ak-blanc
+
+URL:
+    https://opengameart.org/content/lpc-misc-animations-and-items
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+
+Copyright/Attribution Notice:
+    I don&#039;t need any attribution but credit Sharm if you&#039;re using the animations and Stephen Challener and Thane Brimhall if you&#039;re using the top-hat character.
+
+File(s):
+    * chest_rounded.png
+    * chest_squared.png
+    * gate.png
+    * courage_drop.png
+    * host_mini.png
+    * key0.png
+    * key1.png
+    * key2.png
+    * key3.png
+    * key4.png
+
+----------------------------------------
+
+Title:
+    Wizard hat
+
+Author:
+    Evert
+
+Collaborators:
+    thomaswp
+
+URL:
+    https://opengameart.org/content/wizard-hat
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+
+Copyright/Attribution Notice:
+    Credit should go to the the original author: Stafford McIntyre and the  PlatForge project.
+
+File(s):
+    * wizard_hat_female.png
+    * wizard_hat_male.png
+
+----------------------------------------
+
+Title:
+    [LPC] Rat, Cat and Dog
+
+Author:
+    Reemax
+
+URL:
+    https://opengameart.org/content/lpc-rat-cat-and-dog
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+Copyright/Attribution Notice:
+    Rat/Cat/Dog by Tuomo Untinen
+
+File(s):
+    * lpccatratdog.png
+
+----------------------------------------
+
+Title:
+    [LPC] Turkey
+
+Author:
+    bluecarrot16
+
+URL:
+    https://opengameart.org/content/lpc-turkey
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+Copyright/Attribution Notice:
+    "LPC Turkey" by bluecarrot16. License: CC-BY 3.0 / OGA-BY 3.0 / GPL 2.0+ 
+
+File(s):
+    * turkey.png
+
+----------------------------------------
+
+Title:
+    [LPC] Goat
+
+Author:
+    bluecarrot16
+
+URL:
+    https://opengameart.org/content/lpc-goat
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+Copyright/Attribution Notice:
+    "LPC Goat" by bluecarrot16. License: CC-BY 3.0 / GPL 2.0+
+Based on "LPC Style Farm Animals" by Daniel Eddeland (daneeklu), commissioned by Thomas Bruno (tebruno99). License: CC-BY 3.0 / GPL 2+. http://opengameart.org/content/lpc-style-farm-animals
+
+File(s):
+    * goat.png
+
+----------------------------------------
+
+Title:
+    [LPC] Horse
+
+Author:
+    bluecarrot16
+
+URL:
+    https://opengameart.org/content/lpc-horse
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+Copyright/Attribution Notice:
+    "[LPC] Horse"
+Artist: bluecarrot16
+License: CC-BY 3.0 / GPL 3.0 / GPL 2.0 / OGA-BY 3.0
+Please link to opengameart: http://opengameart.org/content/lpc-horse
+
+File(s):
+    * horse.png
+
+----------------------------------------
+
+Title:
+    3 hairs for LPC
+
+Author:
+    Nila122
+
+URL:
+    https://opengameart.org/content/3-hairs-for-lpc
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+File(s):
+    * Hair00.zip
+
+----------------------------------------
+
+Title:
+    Universal LPC Sprite Male 01
+
+Author:
+    Gaurav Munjal
+
+URL:
+    https://opengameart.org/content/universal-lpc-sprite-male-01
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+
+Copyright/Attribution Notice:
+    Gaurav Munjal, Stephen Challener (Redshrike)
+
+File(s):
+    * universal-lpc-sprite_male_01_full.png
+    * universal-lpc-sprite_male_01_walk-3frame.png
+    * universal-lpc-sprite_male_01_walk-3frame.xcf.bz2
+
+----------------------------------------
+
+Title:
+    LPC long ears
+
+Author:
+    Nila122
+
+URL:
+    https://opengameart.org/content/lpc-long-ears
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+File(s):
+    * Long ears.zip
+
+----------------------------------------
+
+Title:
+    LPC aprons
+
+Author:
+    Nila122
+
+URL:
+    https://opengameart.org/content/lpc-aprons
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+File(s):
+    * Aprons.zip
+
+----------------------------------------
+
+Title:
+    more LPC clothes and hair
+
+Author:
+    Nila122
+
+URL:
+    https://opengameart.org/content/more-lpc-clothes-and-hair
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+File(s):
+    * Clothes01.zip
+
+----------------------------------------
+
+Title:
+    [LPC] Goblin
+
+Author:
+    William.Thompsonj
+
+Collaborators:
+    Redshrike
+
+URL:
+    https://opengameart.org/content/lpc-goblin
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+Copyright/Attribution Notice:
+    Attribute Stephen "Redshrike" Challener as graphic artist and William.Thompsonj as contributor. If reasonable link to this page or the OGA homepage.
+
+File(s):
+    * goblin.png
+    * sword.png
+    * goblinsword.png
+    * goblin sheeting.psd
+
+----------------------------------------
+
+Title:
+    [LPC] Golem
+
+Author:
+    William.Thompsonj
+
+Collaborators:
+    Redshrike
+
+URL:
+    https://opengameart.org/content/lpc-golem
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+Copyright/Attribution Notice:
+    Attribute Stephen "Redshrike" Challener as graphic artist and William.Thompsonj as contributor. If reasonable link to this page or the OGA homepage.
+
+File(s):
+    * golem-walk.png
+    * golem-atk.png
+    * golem-die.png
+
+----------------------------------------
+
+Title:
+    LPC Brunet Mustache
+
+Author:
+    Nemisys
+
+URL:
+    https://opengameart.org/content/lpc-brunet-mustache
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+
+Copyright/Attribution Notice:
+    Original Walkcycle, Hurt, Slash, and Spellcast animations by Stephen Challener (AKA Redshrike) and Shooting and Thrusting animations by Johannes Sjölund
+
+File(s):
+    * brunettemustache.png
+    * character(brunettemustache).png
+
+----------------------------------------
+
+Title:
+    LPC White Beard
+
+Author:
+    Nemisys
+
+URL:
+    https://opengameart.org/content/lpc-white-beard
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+
+Copyright/Attribution Notice:
+    Original Walkcycle, Hurt, Slash, and Spellcast animations by Stephen Challener (AKA Redshrike) and Shooting and Thrusting animations by Johannes Sjölund
+
+File(s):
+    * whitebeard.png
+    * character(whitebeard).png
+
+----------------------------------------
+
+Title:
+    LPC Expressions
+
+Author:
+    Dragontrainer
+
+URL:
+    https://opengameart.org/content/lpc-expressions-0
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+
+Copyright/Attribution Notice:
+    The sprites were originally made using Gaurav Mungal&#039;s Universal LPC Spritesheet Character Generator.
+
+File(s):
+    * LPC Expressions.png
+
+----------------------------------------
+
+Title:
+    LPC clothes and hair
+
+Author:
+    Nila122
+
+URL:
+    https://opengameart.org/content/lpc-clothes-and-hair
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+Copyright/Attribution Notice:
+    Original Walkcycle, Hurt, Slash, and Spellcast animations by Stephen Challener (AKA Redshrike) and Shooting and Thrusting animations by Johannes Sjölund
+
+File(s):
+    * Clothes00.zip
+
+----------------------------------------
+
+Title:
+    Drakes and lizardfolk
+
+Author:
+    Nila122
+
+URL:
+    https://opengameart.org/content/drakes-and-lizardfolk
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+Copyright/Attribution Notice:
+    Original Walkcycle, Hurt, Slash, and Spellcast animations by Stephen Challener (AKA Redshrike) and Shooting and Thrusting animations by Johannes Sjölund
+
+File(s):
+    * Reptile.zip
+
+----------------------------------------
+
+Title:
+    [LPC] Spider
+
+Author:
+    William.Thompsonj
+
+Collaborators:
+    Redshrike
+
+URL:
+    https://opengameart.org/content/lpc-spider
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Attribute Stephen "Redshrike" Challener as graphic artist and William.Thompsonj as contributor. If reasonable link to this page or the OGA homepage.
+
+File(s):
+    * LPC_Spiders.zip
+
+----------------------------------------
+
+Title:
+    [LPC] Imp 2
+
+Author:
+    William.Thompsonj
+
+Collaborators:
+    Redshrike
+
+URL:
+    https://opengameart.org/content/lpc-imp-2
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Attribute Stephen "Redshrike" Challener as graphic artist and William.Thompsonj as contributor. If reasonable link to this page or the OGA homepage.
+
+File(s):
+    * LPC Imp 2.zip
+
+----------------------------------------
+
+Title:
+    [LPC] Wolf Animation
+
+Author:
+    William.Thompsonj
+
+Collaborators:
+    Redshrike
+
+URL:
+    https://opengameart.org/content/lpc-wolf-animation
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Attribute Stephen "Redshrike" Challener as graphic artist and William.Thompsonj as contributor. If reasonable link back to this page or the OGA homepage.
+
+File(s):
+    * howl.png
+    * wolfsheet1.png
+    * wolfsheet2.png
+    * wolfsheet3.png
+    * wolfsheet4.png
+    * wolfsheet5.png
+    * wolfsheet6.png
+    * wolfsheetsSource.psd
+
+----------------------------------------
+
+Title:
+    LPC Dark Elves
+
+Author:
+    Nila122
+
+URL:
+    https://opengameart.org/content/lpc-dark-elves
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Walkcycle, Hurt, Slash, and Spellcast animations by Stephen Challener (AKA Redshrike),
+
+Shooting and Thrusting animations by Johannes Sjölund, 
+
+Ears by Makrohn and David Conway Jr. (AKA Jaidyn Reiman) for cleaning up the ears
+
+File(s):
+    * LPC Dark Elves.zip
+
+----------------------------------------
+
+Title:
+    1 Hour LPC Enemy
+
+Author:
+    Redshrike
+
+URL:
+    https://opengameart.org/content/1-hour-lpc-enemy
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Stephen "Redshrike" Challener, and a link back to OpenGameArt.org
+
+File(s):
+    * 1hoursheet.PNG
+
+----------------------------------------
+
+Title:
+    [LPC] Curly Hair, Elven Ears, White Cape with blue trim, and more!
+
+Author:
+    Jaidyn Reiman
+
+Collaborators:
+    makrohn, JaidynReiman
+
+URL:
+    https://opengameart.org/content/lpc-curly-hair-elven-ears-white-cape-with-blue-trim-and-more
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    See authors here: https://github.com/jrconway3/Universal-LPC-spritesheet/blob/master/AUTHORS.txt
+
+File(s):
+    * ruby-red.png
+    * elvenears_light.png
+    * red_orc.png
+    * teal_tunic.png
+    * cape_white.png
+    * trimcape_whiteblue.png
+    * capeclip_blue.png
+    * capetie_white.png
+    * maroon_sleeveless.png
+
+----------------------------------------
+
+Title:
+    LPC girl variant 2
+
+Author:
+    sheep & Radomir Dopieralski
+
+URL:
+    https://opengameart.org/content/lpc-girl-variant-2
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+
+Copyright/Attribution Notice:
+    Based on Radomir Dopieralski&#039;s https://opengameart.org/content/one-more-lpc-alternate-character and Sheep&#039;s https://opengameart.org/content/alternate-lpc-character-sprites-george 
+
+File(s):
+    * ada_0.png
+    * dante_0.png
+    * dante_1.png
+    * dante-hair.png
+
+----------------------------------------
+
+Title:
+    [LPC] Expressions
+
+Author:
+    Curt
+
+URL:
+    https://opengameart.org/content/lpc-expressions
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Curt - This web address
+
+File(s):
+    * Expressions.png
+
+----------------------------------------
+
+Title:
+    Ponytail and Plain hairstyles
+
+Author:
+    Joe White
+
+URL:
+    https://opengameart.org/content/ponytail-and-plain-hairstyles
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+
+File(s):
+    * ponytail-and-plain.zip
+
+----------------------------------------
+
+Title:
+    Bunny Rabbit LPC style for PixelFarm
+
+Author:
+    Redshrike
+
+URL:
+    https://opengameart.org/content/bunny-rabbit-lpc-style-for-pixelfarm
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    PixelFarm (https://bitbucket.org/tebruno99/pixelfarm)
+Stephen "Redshrike" Challener
+
+Copyright/Attribution Notice:
+    Stephen Challener (Redshrike), commissioned by Tebruno99 and hosted by OpenGameArt.org
+
+File(s):
+    * bunnysheet5.png
+
+----------------------------------------
+
+Title:
+    LPC style farm animals
+
+Author:
+    daneeklu
+
+URL:
+    https://opengameart.org/content/lpc-style-farm-animals
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Attribute to Daniel Eddeland, and link to opengameart (preferably this submission).
+
+File(s):
+    * chicken_eat.png
+    * chicken_walk.png
+    * chicken_shadow.png
+    * cow_eat.png
+    * cow_walk.png
+    * cow_shadow.png
+    * llama_eat.png
+    * llama_walk.png
+    * llama_shadow.png
+    * pig_eat.png
+    * pig_walk.png
+    * sheep_eat.png
+    * sheep_walk.png
+
+----------------------------------------
+
+Title:
+    [LPC] Female Orc/Ogre/Goblin/Troll (base walkcycle)
+
+Author:
+    madmarcel
+
+URL:
+    https://opengameart.org/content/lpc-female-orcogregoblintroll-base-walkcycle
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+
+File(s):
+    * female_orcwalkcycle.xcf
+    * orc_piratess.png
+    * BODY_FEMALE_ORC.png
+
+----------------------------------------
+
+Title:
+    LPC ladies
+
+Author:
+    makrohn
+
+URL:
+    https://opengameart.org/content/lpc-ladies
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Walkcycle, Hurt, Slash, and Spellcast animations by Stephen Challener (AKA Redshrike), 
+Shooting and Thrusting adapted from animations by Johannes Sjölund, 
+Male and female orc heads by MadMarcel and based on Stephen Challener&#039;s Sinbad, 
+Tanned, Tanned2, and Dark colors by MadMarcel, 
+other credit to Matthew Krohn
+
+File(s):
+    * lpcfemalelight.png
+    * lpcfemaletanned.png
+    * lpcfemaletanned2.png
+    * lpcfemaledark.png
+    * lpcfemaleorc.png
+
+----------------------------------------
+
+Title:
+    LPC Combat Armor for women
+
+Author:
+    makrohn
+
+URL:
+    https://opengameart.org/content/lpc-combat-armor-for-women
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Adapted by Matthew Krohn from art created by Johannes Sjölund
+
+File(s):
+    * lpcfemalechainmail.png
+    * lpcfemalechaintabard.png
+    * lpcfemaleleatherbracers.png
+    * lpcfemaleleathershoulders.png
+    * lpcfemaleleathertorso.png
+    * lpcfemaleplateboots.png
+    * lpcfemaleplategloves.png
+    * lpcfemaleplategreaves.png
+    * lpcfemaleplatehelmet.png
+    * lpcfemaleplatemail.png
+    * lpcfemaleplatesaulders.png
+
+----------------------------------------
+
+Title:
+    LPC Dress in Combat Poses
+
+Author:
+    makrohn
+
+URL:
+    https://opengameart.org/content/lpc-dress-in-combat-poses
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Walkcycle poses by Lanea Zimmerman (AKA Sharm), other poses by Matthew Krohn
+
+File(s):
+    * lpcfemaleoverskirt.png
+    * lpcfemaleunderdress.png
+    * lpcfemalevest.png
+
+----------------------------------------
+
+Title:
+    LPC Male Sheets
+
+Author:
+    makrohn
+
+URL:
+    https://opengameart.org/content/lpc-male-sheets
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Walkcycle, Hurt, Slash, and Spellcast animations by Stephen Challener (AKA Redshrike), 
+Shooting and Thrusting animations by Johannes Sjölund, 
+Male and female orc heads by MadMarcel and based on Stephen Challener&#039;s Sinbad, 
+Tanned, Tanned2, and Dark colors by MadMarcel, 
+other credit to Matthew Krohn
+
+File(s):
+    * darkmale.png
+    * tanned2male.png
+    * tannedmale.png
+    * maleorcfullsheet.png
+
+----------------------------------------
+
+Title:
+    LPC Weapons: two bows, a spear and a trident
+
+Author:
+    daneeklu
+
+Collaborators:
+    wulax, gr3yh47
+
+URL:
+    https://opengameart.org/content/lpc-weapons-two-bows-a-spear-and-a-trident
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+
+File(s):
+    * dragonspear.png
+    * greatbow.png
+    * trident.png
+    * mace_sheet.png
+    * sabre_sheet.png
+    * recurvebow_sheet.png
+
+----------------------------------------
+
+Title:
+    Grue
+
+Author:
+    Jesse McCarthy
+
+URL:
+    https://opengameart.org/content/grue
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    A mention in the credits is appreciated, but I honestly don&#039;t care as long as you don&#039;t try to pass it as your own.
+
+File(s):
+    * Grue.zip
+
+----------------------------------------
+
+Title:
+    LPC beetle
+
+Author:
+    Redshrike
+
+URL:
+    https://opengameart.org/content/lpc-beetle
+
+License(s):
+    * CC-BY 3.0 ( http://creativecommons.org/licenses/by/3.0/legalcode )
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 2.0 ( http://www.gnu.org/licenses/old-licenses/gpl-2.0.html )
+    * OGA-BY 3.0 ( http://static.opengameart.org/OGA-BY-3.0.txt )
+
+SPECIAL ATTRIBUTION INSTRUCTIONS:
+    Stephen "Redshrike" Challener, plus a link back to opengameart.org
+
+Copyright/Attribution Notice:
+    Stephen Challener (Redshrike), hosted by OpenGameArt.org
+
+File(s):
+    * beetle5.PNG
+    * mace.PNG
+
+----------------------------------------
+
+Title:
+    [LPC] Medieval fantasy character sprites
+
+Author:
+    wulax
+
+URL:
+    https://opengameart.org/content/lpc-medieval-fantasy-character-sprites
+
+License(s):
+    * CC-BY-SA 3.0 ( http://creativecommons.org/licenses/by-sa/3.0/legalcode )
+    * GPL 3.0 ( http://www.gnu.org/licenses/gpl-3.0.html )
+
+File(s):
+    * lpc_entry.zip
+    * expansion_pack-0.04.zip
+
+----------------------------------------
+
+

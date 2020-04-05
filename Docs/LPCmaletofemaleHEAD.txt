@@ -1,0 +1,47 @@
+cast: good to go
+
+spear,dir0,frame0: down 1
+spear,dir0,frame1: left 1
+
+walk,dir0, EVERYFRAME: down 1
+walk,dir1,frame2: down 1
+walk,dir1,frame6: down 1
+walk,dir3,frame2: down 1
+walk,dir3,frame6: down 1
+
+slash,dir0,frame1: up 1, left 1
+slash,dir0,frame2: up 1, left 1
+slash,dir0,frame3: up 1
+slash,dir0,frame4: up 1
+slash,dir0,frame5: up 1
+slash,dir1,frame1: right 1
+slash,dir1,frame2: down 1 right 1
+slash,dir1,frame3: right 1
+slash,dir1,frame4: right 2
+slash,dir1,frame5: right 2
+slash,dir2,frame1: down 2
+slash,dir2,frame2: up 1
+slash,dir2,frame3: left 1 up 1
+slash,dir2,frame4: left 1
+slash,dir2,frame5: left 1
+slash,dir3,frame1: left 1
+slash,dir3,frame2: down 1
+slash,dir3,frame3: left 1
+slash,dir3,frame4: left 2
+slash,dir3,frame5: left 2
+
+shoot,dir0,frame0: right 1
+shoot,dir0,frame1: up 1
+shoot,dir1,frame0: left 1
+shoot,dir1,frame1: left 1
+shoot,dir1,frame2: left 1
+shoot,dir1,frame3: down 2 left 1
+shoot,dir1,frame4 - frame12: left 1
+shoot,dir2,frame0:right1
+shoot,dir3,frame3: down 2
+
+death,frame0: down 1
+death,frame1: left 1
+death,frame2: left 1
+death,frame3: left 1
+death,frame:5: left 1

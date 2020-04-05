@@ -1,0 +1,45 @@
+
+	public int findNextLetter(int start) {
+		if (start < 0 || start >= 1024) {
+			return -1;
+		}
+		if (!texture.getTextureData().isPrepared()) {
+			texture.getTextureData().prepare();
+		}
+		Pixmap pixmap = texture.getTextureData().consumePixmap();
+		Color c;
+		for (int x = start; x < start + 16; x++) {
+			if (x >= 0 && x < texture.getTextureData().getWidth()) {
+				c = new Color(pixmap.getPixel(x, 1));
+				if (c.a == 1.0 && c.b == 1.0 && c.g == 0) {
+					return x;
+				}
+			}
+		}
+		return -1;
+	}
+
+	public void outputBreaks() {
+		int a = 32;
+		int curX = 0;
+		int startX, endX, width;
+		boolean checkAgain;
+		do {
+			checkAgain = false;
+			startX = findNextLetter(curX);
+			if (startX >= 0) {
+				endX = findNextLetter(startX + 2);
+				if (endX >= 0) {
+					width = endX - startX - 2;
+					fontWidth[a] = width;
+					fontX[a] = startX + 1;
+					checkAgain = true;
+					curX = endX;
+					a++;
+				}
+			}
+		} while (checkAgain == true);
+		for (int i = 0; i < 256; i++) {
+			// System.out.print(fontX[i] + ",");
+		}
+	}
